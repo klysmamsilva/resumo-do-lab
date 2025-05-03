@@ -3,7 +3,7 @@
 
 O Microsoft Azure oferece uma ampla gama de serviços organizados por categorias, permitindo que empresas e desenvolvedores escolham as melhores soluções para suas necessidades. Aqui está um detalhamento das principais categorias de serviços no Azure:
 
-# 1. Computação (Compute) 💻​
+# Computação (Compute) 💻​
    
 *Serviços voltados para processamento e execução de aplicações:*
 - Máquinas Virtuais (Virtual Machines): Criação e gerenciamento de VMs baseadas em Windows ou Linux.
@@ -11,7 +11,7 @@ O Microsoft Azure oferece uma ampla gama de serviços organizados por categorias
 - Azure Functions: Execução de código sem necessidade de gerenciar infraestrutura.
 - AKS (Azure Kubernetes Service): Orquestração de contêineres com Kubernetes gerenciado.
   
-# 2. Armazenamento (Storage) 💾​
+# Armazenamento (Storage) 💾​
    
 *Soluções para armazenamento de dados em grande escala:*
 - Azure Blob Storage: Armazenamento de grandes volumes de dados não estruturados.
@@ -19,7 +19,7 @@ O Microsoft Azure oferece uma ampla gama de serviços organizados por categorias
 - Azure Disk Storage: Discos gerenciados de alto desempenho para VMs.
 - Azure Data Lake: Armazenamento otimizado para grandes volumes de dados analíticos.
   
-# 3. Banco de Dados (Databases) 🗄️​
+# Banco de Dados (Databases) 🗄️​
    
 *Serviços de banco de dados gerenciados e escaláveis:*
 - Azure SQL Database: Banco de dados SQL totalmente gerenciado.
@@ -27,7 +27,7 @@ O Microsoft Azure oferece uma ampla gama de serviços organizados por categorias
 - Azure Database for MySQL: Serviço gerenciado de banco de dados MySQL.
 - Azure Database for PostgreSQL: Banco de dados PostgreSQL gerenciado.
   
-# 4. Rede (Networking) 🌐
+# Rede (Networking) 🌐
   
 *Infraestrutura de rede para conectar e proteger serviços na nuvem:*
 - Azure Virtual Network (VNet): Configuração de redes privadas no Azure.
@@ -35,14 +35,14 @@ O Microsoft Azure oferece uma ampla gama de serviços organizados por categorias
 - Azure Load Balancer: Distribuição de tráfego entre múltiplas instâncias de serviço.
 - Azure Front Door: Gerenciamento e otimização de tráfego para aplicativos globais.
   
-# 5. IA e Machine Learning ⚙️
+# IA e Machine Learning ⚙️
   
 *Ferramentas para desenvolvimento de inteligência artificial:*
 - Azure Cognitive Services: APIs para visão, fala, linguagem e IA de decisão.
 - Azure Machine Learning: Plataforma para criação e implantação de modelos de machine learning.
 - Azure Bot Services: Plataforma para criação de bots inteligentes.
 
-# 6. Analítica (Analytics) 📊​
+# Analítica (Analytics) 📊​
   
 *Soluções para processamento de grandes volumes de dados:*
 - Azure Synapse Analytics: Integração de data warehousing e Big Data.
