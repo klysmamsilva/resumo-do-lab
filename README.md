@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo-do-lab
 
 
 O Microsoft Azure oferece uma ampla gama de serviços organizados por categorias, permitindo que empresas e desenvolvedores escolham as melhores soluções para suas necessidades. Aqui está um detalhamento das principais categorias de serviços no Azure:
